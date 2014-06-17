@@ -1,0 +1,16 @@
+/*
+ * Bill Glover
+ * Sublime Text 3 Settings
+ */
+
+{
+	// user interface
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"theme": "Spacegray.sublime-theme",
+
+	// things we don't want
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

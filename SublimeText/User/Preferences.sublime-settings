@@ -7,13 +7,6 @@
 	"auto_complete_delay": 50,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_size_limit": 4194304,
-	"auto_complete_triggers":
-	[
-		{
-			"characters": "<",
-			"selector": "text.html"
-		}
-	],
 	"auto_complete_with_fields": false,
 	"auto_find_in_selection": false,
 	"auto_indent": true,
